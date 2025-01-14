@@ -31,7 +31,7 @@ body{
 } 
 
 .container{
-    width: 460px;
+    max-width: 380px;
     background-color: var(--White);
     margin: 0 1rem;
     border: 2px solid var(--Gray-950);
